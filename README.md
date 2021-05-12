@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++, C 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mail: norlann.gockel@2025.icam.fr
+- Mobile: +33 6 50 48 06 88
 
 <!---
 NorlannGockel/NorlannGockel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
