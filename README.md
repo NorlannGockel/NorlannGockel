@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NorlannGockel
-- 👀 I’m interested in electronics, computer, coding, electricity
+- 👀 I’m interested in electronics, computer, coding, automatism
 - 🌱 I’m currently learning C++, C 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mail: norlann.gockel@2025.icam.fr
